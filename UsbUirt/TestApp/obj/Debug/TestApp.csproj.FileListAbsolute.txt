@@ -1,0 +1,8 @@
+C:\Users\Vitor Cafe\Desktop\UFU\TCC\Treino de programação\UsbUirt_rev1\UsbUirt\TestApp\obj\Debug\TestApp.csprojResolveAssemblyReference.cache
+C:\Users\Vitor Cafe\Desktop\UFU\TCC\Treino de programação\UsbUirt_rev1\UsbUirt\TestApp\bin\Debug\TestApp.exe
+C:\Users\Vitor Cafe\Desktop\UFU\TCC\Treino de programação\UsbUirt_rev1\UsbUirt\TestApp\bin\Debug\TestApp.pdb
+C:\Users\Vitor Cafe\Desktop\UFU\TCC\Treino de programação\UsbUirt_rev1\UsbUirt\TestApp\bin\Debug\UsbUirtManagedWrapper.dll
+C:\Users\Vitor Cafe\Desktop\UFU\TCC\Treino de programação\UsbUirt_rev1\UsbUirt\TestApp\obj\Debug\TestApp.exe
+C:\Users\Vitor Cafe\Desktop\UFU\TCC\Treino de programação\UsbUirt_rev1\UsbUirt\TestApp\obj\Debug\TestApp.pdb
+G:\UsbUirt_rev1\UsbUirt\TestApp\obj\Debug\TestApp.exe
+G:\UsbUirt_rev1\UsbUirt\TestApp\obj\Debug\TestApp.pdb

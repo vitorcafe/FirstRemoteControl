@@ -1,0 +1,5 @@
+C:\Users\Vitor Cafe\Desktop\UFU\TCC\Treino de programação\UsbUirt_rev1\UsbUirt\UsbUirt Managed Wrapper\obj\Debug\UsbUirtManagedWrapper.pdb
+C:\Users\Vitor Cafe\Desktop\UFU\TCC\Treino de programação\UsbUirt_rev1\UsbUirt\UsbUirt Managed Wrapper\bin\Debug\UsbUirtManagedWrapper.dll
+C:\Users\Vitor Cafe\Desktop\UFU\TCC\Treino de programação\UsbUirt_rev1\UsbUirt\UsbUirt Managed Wrapper\bin\Debug\UsbUirtManagedWrapper.pdb
+C:\Users\Vitor Cafe\Desktop\UFU\TCC\Treino de programação\UsbUirt_rev1\UsbUirt\UsbUirt Managed Wrapper\bin\Debug\UsbUirtManagedWrapper.xml
+C:\Users\Vitor Cafe\Desktop\UFU\TCC\Treino de programação\UsbUirt_rev1\UsbUirt\UsbUirt Managed Wrapper\obj\Debug\UsbUirtManagedWrapper.dll

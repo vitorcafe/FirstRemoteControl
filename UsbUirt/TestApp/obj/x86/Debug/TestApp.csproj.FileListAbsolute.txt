@@ -1,0 +1,12 @@
+G:\UsbUirt_rev1\UsbUirt\TestApp\bin\x86\Debug\TestApp.exe
+G:\UsbUirt_rev1\UsbUirt\TestApp\bin\x86\Debug\TestApp.pdb
+G:\UsbUirt_rev1\UsbUirt\TestApp\bin\x86\Debug\UsbUirtManagedWrapper.dll
+G:\UsbUirt_rev1\UsbUirt\TestApp\obj\x86\Debug\TestApp.csprojResolveAssemblyReference.cache
+G:\UsbUirt_rev1\UsbUirt\TestApp\obj\x86\Debug\TestApp.exe
+G:\UsbUirt_rev1\UsbUirt\TestApp\obj\x86\Debug\TestApp.pdb
+C:\Users\Vitor Cafe\Desktop\UFU\TCC\UsbUirt_rev1\UsbUirt\TestApp\obj\x86\Debug\TestApp.exe
+C:\Users\Vitor Cafe\Desktop\UFU\TCC\UsbUirt_rev1\UsbUirt\TestApp\obj\x86\Debug\TestApp.pdb
+C:\Users\Vitor Cafe\Desktop\UFU\TCC\UsbUirt_rev1\UsbUirt\TestApp\bin\x86\Debug\TestApp.exe
+C:\Users\Vitor Cafe\Desktop\UFU\TCC\UsbUirt_rev1\UsbUirt\TestApp\bin\x86\Debug\TestApp.pdb
+C:\Users\Vitor Cafe\Desktop\UFU\TCC\UsbUirt_rev1\UsbUirt\TestApp\bin\x86\Debug\UsbUirtManagedWrapper.dll
+C:\Users\Vitor Cafe\Desktop\UFU\TCC\UsbUirt_rev1\UsbUirt\TestApp\obj\x86\Debug\TestApp.csprojResolveAssemblyReference.cache
